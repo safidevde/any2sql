@@ -2,7 +2,8 @@
 
 **Any2SQL** is an AI-powered tool that converts plain English descriptions of data needs into SQL queries you can run against your database. It prioritizes **security** and **clarity**, letting you generate clean SQL without exposing your underlying data.
 
-[![Any2SQL Logo](https://any2sql.com/logo.png)](https://any2sql.com/)
+<!-- image fromn gihhub repo -->
+[![Any2SQL Logo](https://raw.githubusercontent.com/safidevde/any2sql/main/screenshot.png)](https://any2sql.com/)
 
 ## 🚀 Features
 
